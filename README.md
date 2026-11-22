@@ -2,7 +2,7 @@
 
 A wellness and personal growth app with study tools, speech practice, mindfulness features, and community support.
 
-**Live site:** https://israkhan15.github.io/Hello-buddy-app/
+**Live site:** https://israkhan15.github.io/Hello-Buddy/
 
 Originally exported from Figma Make: https://www.figma.com/design/Bo9AnhHZXiDzszF9Duk58T/Hello-Buddy-App-Prototype
 
